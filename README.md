@@ -17,7 +17,7 @@ This project consists of the following files:
 <br>
 
 This project is made using **HTML5**, **CSS**, **Javascript**, **jQuery**, **Bootstrap**, **Yelp Fusion API** and **EDAMAM's Recipe Search API** <br>
-This project is currently hosted on Github Pages: <br>
+This project is currently hosted on Github Pages: https://elwinung0120.github.io/Project1/<br>
 
 ## script.js and script2.js
 - Send API calls to Yelp Fusion API/EDAMAM's Recipe Search API
