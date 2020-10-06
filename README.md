@@ -1,4 +1,4 @@
-# Project1
+# "What's for dinner?" app
 Goal: To combine restaurant finding and recipe finding into one webapp <br>
 This project has the following abilities:
 - Makes calls to server APIs: Yelp Fusion API and EDAMAM's Recipe Search API
